@@ -1,8 +1,7 @@
 
-Emoji development tree
+Emoji Coin development tree
 
-Emoji is a PoS-based cryptocurrency.
-
+Emoji is a Pow/PoS Scrypt Cryptocurency 
 Development process
 ===========================
 
